@@ -1,0 +1,7 @@
+body {     /* exemplo de estilização direto na tag. Neste caso, a regra será aplicadas para todas as tags */
+    background: #dfdfdf;     /* a cor no formato hexadecimal não permite usar o Alpha (transparência) */
+}
+
+p {
+    color: rgb(34, 34, 34);
+}

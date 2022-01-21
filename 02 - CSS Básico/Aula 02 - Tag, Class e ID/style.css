@@ -1,0 +1,15 @@
+body {     /* exemplo de estilização direto na tag. Neste caso, a regra será aplicadas para todas as tags */
+    background: red;
+}
+
+h3 {
+    color:green;
+}
+
+.foto-principal {     /* exemplo de estilização usando uma classe */
+    width: 200px;
+}
+
+#titulo-principal {     /* exemplo de sintaxe para estilizar uma tag com if */
+    color: yellow;
+}
